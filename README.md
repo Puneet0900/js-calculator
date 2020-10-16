@@ -1,3 +1,2 @@
-# Calculator
-
-I have made this calculator using vanilla js and HTML/CSS.
+# calculator
+Calculator implemented through vanilla js, html and css.
